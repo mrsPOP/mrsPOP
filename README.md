@@ -1,16 +1,20 @@
-### Hi there 👋
+### Frontend Developer
+- Location: Russia, Moscow
+- Remote Work: Yes, prefer office/hybrid
+- Contact: @mrs_rosy_cheeks (https://t.me/mrs_rosy_cheeks) | kekvalery@gmail.com
 
-<!--
-**mrsPOP/mrsPOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Stack:
+- JavaScript (ES6)
+- TypeScript
+- React, Next.js
+- Redux, Zustand
+- Jest
+- CSS, SCSS, SASS
+- Storybook
+- Responsive Web Design
+- Rest API
+- Webpack, Vite
+- Git, Figma
 
-Here are some ideas to get you started:
+I am currently seeking an exciting project and a team that actively embraces new approaches in their work. I give priority to React projects. I strive to adhere to patterns that not only expedite task completion but also ensure its maintainability and scalability in the future. I am open to expanding my stack with other intriguing technologies in the world of web development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
