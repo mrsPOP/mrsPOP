@@ -1,7 +1,7 @@
 ### Frontend Developer
 - Location: Russia, Moscow
 - Remote Work: Yes, prefer office/hybrid
-- Contact: @mrs_rosy_cheeks (https://t.me/mrs_rosy_cheeks) | kekvalery@gmail.com
+- Contact: @mrs_rosy_cheeks (https://t.me/leriavp) | kekvalery@gmail.com
 
 ### Tech Stack:
 - JavaScript (ES6)
